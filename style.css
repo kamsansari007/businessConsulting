@@ -1,0 +1,95 @@
+.parallax {
+    /* The image used */
+    background-image: url("tower.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .tagline{
+    display: flex;
+    align-items: bottom;
+    justify-content: center;
+    font-size: 70px;
+    color: white;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  /*.parallax1 {
+    /* The image used */
+    background-image: url("business.jpg");
+  
+    /* Set a specific height */
+    min-height: 300px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  } */
+  .testimonials{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+    
+  }
+  .parallax2 {
+    /* The image used */
+    background-image: url("vision.jpg");
+  
+    /* Set a specific height */
+    min-height: 400px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax3 {
+    /* The image used */
+    background-image: url("team.jpg");
+  
+    /* Set a specific height */
+    min-height: 300px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .tquote{
+    display: flex;
+    align-items: bottom;
+    justify-content: center;
+    font-size: 70px;
+    color: white;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .tquote2{
+    margin-left: 30px;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: grey;
+    color: white;
+  }
